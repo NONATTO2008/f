@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import href="https: //fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 
 * {
@@ -13,6 +13,7 @@ body {
   font-size: 30px;
 text-align: center;
 }
+
 
 .img-center {
     margin: 0 auto;
