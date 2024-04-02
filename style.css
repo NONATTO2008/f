@@ -7,9 +7,9 @@ HEAD
 body
  
 {
-    font-family: "EB Garamond", serif;
+    font-family: "EB Garamond", serif
 
-body {
+    {
   font-family: "EB Garamond", serif;
 
   font-optical-sizing: auto;
