@@ -28,7 +28,9 @@ img {
   margin-bottom: 60px 0;
   border-radius: 30px;
 }
-
+.capa{
+  border-right: 0;
+}
 .intro{
   background-color: hotpink;
   padding: 0 0 36px 0;
