@@ -1,27 +1,33 @@
-
 * {
-    margin:0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-body
- 
-{
-    font-family: "EB Garamond", serif;
+body {
+  font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
   font-style: normal;
   font-size: 30px;
-text-align: center;
-background-color: lightpink;
-color:ghostwhite
+  text-align: center;
+  background-color: lightpink;
+  color: ghostwhite
 }
 
 
 
 .img-center {
-    margin: 0 auto }
-    
-    
-div{margin: 100px 0;}
+  margin: 0 auto
+}
 
-img {margin-bottom: 60px 0;}
+
+div {
+  margin: 100px 0;
+}
+
+img {
+  margin-bottom: 60px 0;
+}
+
+.intro{
+  background-color: hotpink;
+}
