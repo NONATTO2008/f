@@ -3,13 +3,10 @@
   padding: 0;
 }
 
-HEAD
 
-body {
-    font-family: "EB Garamond", serif
-    
-  font-family: "EB Garamond", serif;
-  font-optical-sizing: auto;
+ .body 
+ {
+
   font-style: normal;
   font-size: 30px;
   text-align: center;
@@ -41,5 +38,4 @@ img {
 .intro{
   background-color: hotpink;
   padding: 0 0 36px 0;
-  background-color: lightpink;
 }
