@@ -11,6 +11,7 @@
   font-size: 30px;
   text-align: center;
   color: ghostwhite;
+  
 
   }
 
@@ -38,4 +39,8 @@ img {
 .intro{
   background-color: hotpink;
   padding: 0 0 36px 0;
+}
+
+.fotos {
+   display: flex;
 }
